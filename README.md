@@ -1,2 +1,2 @@
 # Discord-Nitro-Gen-Checker
-Discord Nitro Gen+Checker OpenSource 
+Start  Programı Başlat.bat
